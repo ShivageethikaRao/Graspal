@@ -1,1 +1,1 @@
-# Graspal
+# Graspal is a edu community where both Tutors and Students can connect and share all the lectures, doubts, and also can solve doubts , creating a community for everyone and also can view location of nearby tutors. Keeping these apart there are many others features like community chat,Simply to say it is an educational social media.
